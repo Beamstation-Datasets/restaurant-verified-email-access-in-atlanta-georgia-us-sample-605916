@@ -1,6 +1,6 @@
 # Restaurant Verified Email Access in Atlanta, Georgia, US
 
-> Free BeamStation sample export with 61 rows and masked direct-contact fields.
+> Free BeamStation sample export with 53 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `605916` |
 | Location | Atlanta |
 | Category | Restaurants |
-| Full dataset size | 610 records |
-| Free sample size | 61 records (10.0%) |
-| Last export | 2026-04-15T05:05:45.286015+00:00 |
+| Full dataset size | 536 records |
+| Free sample size | 53 records (9.89%) |
+| Last export | 2026-04-22T10:42:57.098396+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/restaurant-verified-email-access-in-atlanta-georgia-us-sample-605916/releases/download/sample-latest/beamstation_605916_restaurants-us-ga_SAMPLE_DIST.csv) |
 
 ## What is in this sample

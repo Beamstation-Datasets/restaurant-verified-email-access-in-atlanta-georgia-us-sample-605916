@@ -1,12 +1,12 @@
 {
-  "export_job_id": "bf1c452d-5bb3-4725-8b9e-96fa2aef5ed3",
+  "export_job_id": "cb486a31-6e4a-4da1-97f7-e33b512bc5f5",
   "id_short": 605916,
-  "published_at": "2026-04-22T19:58:48Z",
+  "published_at": "2026-04-30T07:40:28Z",
   "repo_name": "restaurant-verified-email-access-in-atlanta-georgia-us-sample-605916",
   "sample_asset_name": "beamstation_605916_restaurants-us-ga_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/605916/beamstation_605916_restaurants-us-ga_SAMPLE_DIST.csv",
-  "sample_records": 53,
-  "sample_sha256": "cdac12e03c49ccbc01f74def9657824014965dba4d05b8e5995592f4faa870e1",
-  "sample_size_bytes": 235413,
-  "total_records": 536
+  "sample_records": 73,
+  "sample_sha256": "0ca5dc3f73952d8e1cf3dd617577a9b7706cc4de3caf3125d546d85084a745be",
+  "sample_size_bytes": 313011,
+  "total_records": 735
 }
